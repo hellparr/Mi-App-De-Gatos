@@ -1,3 +1,4 @@
-.lista-de-gatos {
-  color:rgba(33, 255, 181, 0.598);
+li {
+  color: blue;
+  font-size: 15px;
 }
