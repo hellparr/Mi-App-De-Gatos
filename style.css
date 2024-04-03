@@ -23,5 +23,8 @@ p {
 }*/
 
 .imagen-de-gato{
-  width: 200px;
+  width: 350px;
+  border-width: 5px;
+  border-color:rgb(242, 175, 76);
+  border-style: solid;
 }
