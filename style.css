@@ -1,51 +1,14 @@
-/* h2 {
-  font-family: "Rubik Scribble", system-ui;
-  font-size: 50px;
+div {
+  background-color: crimson;
 }
 
-h3 {
-  font-family: "Dancing Script", cursive;
-  font-size: 30px;
-}
-
-a { 
-  font-family: "Josefin Sans", sans-serif;
-  font-size: 25px;
-}
-
-p {
-  font-family: "Nosifer", sans-serif;
-  font-size: 40px;
-} */
-
-/*img{
-  width: 200px;
-}*/
-
-/*.imagen-de-gato{
-  width: 350px;
-  border-width: 5px;
-  border-color:rgb(242, 175, 76);
-  border-style: dotted;
-}*/
-
-/*.bordes-redondeados { 
-  border-radius: 50%;
-}*/
-
-/*.contenedor-listas {
-  background-color: rgba(229, 224, 224, 0.452);
-}*/
-
-#titulo-app-gatos {
-  font-size: 30px;
-  color: forestgreen;
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}
-
-#imagen-de-gatos {
-  border-radius: 50px;
-  border-width: 5px;
+img{
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-bottom: 15px;
+  background-color: yellow;
+  border-width: 2px;
+  border-color: black;
   border-style: solid;
-  border-color: rgba(197, 69, 69, 0.893);
 }
