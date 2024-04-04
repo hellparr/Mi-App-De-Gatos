@@ -42,3 +42,10 @@ p {
   color: forestgreen;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+#imagen-de-gatos {
+  border-radius: 50px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: rgba(197, 69, 69, 0.893);
+}
