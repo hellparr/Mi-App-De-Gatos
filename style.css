@@ -22,9 +22,13 @@ p {
   width: 200px;
 }*/
 
-.imagen-de-gato{
+/*.imagen-de-gato{
   width: 350px;
   border-width: 5px;
   border-color:rgb(242, 175, 76);
-  border-style: solid;
+  border-style: dotted;
+}*/
+
+.bordes-redondeados { 
+  border-radius: 150px;
 }
