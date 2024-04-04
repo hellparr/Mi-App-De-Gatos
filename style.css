@@ -33,6 +33,12 @@ p {
   border-radius: 50%;
 }*/
 
-.contenedor-listas {
+/*.contenedor-listas {
   background-color: rgba(229, 224, 224, 0.452);
+}*/
+
+#titulo-app-gatos {
+  font-size: 30px;
+  color: forestgreen;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
