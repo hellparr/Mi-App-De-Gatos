@@ -29,6 +29,10 @@ p {
   border-style: dotted;
 }*/
 
-.bordes-redondeados { 
+/*.bordes-redondeados { 
   border-radius: 50%;
+}*/
+
+div {
+  background-color: rgba(246, 179, 98, 0.749);
 }
