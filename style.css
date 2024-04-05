@@ -3,7 +3,8 @@ div {
 }
 
 img{
-  margin: 15px;
+  margin-top: 15px;
+  margin-bottom: 20px;
   /*padding: 20px 10px 10px 20px;*/
   background-color: rgb(0, 255, 38);
   border-width: 3px;
