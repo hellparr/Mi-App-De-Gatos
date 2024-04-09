@@ -19,9 +19,9 @@ p {
   font-size: 40px;
 } */
 
-/*img{
-  width: 200px;
-}*/
+img [alt]{
+  border-radius: 50%
+}
 
 [type="radio"]{
   margin: 5px;
@@ -31,3 +31,7 @@ p {
   margin: 5px;
 }
 
+a[href="https://pixabay.com/es/images/search/gato/"]{
+  color: rgb(51, 233, 54);
+  text-decoration: none;
+}
