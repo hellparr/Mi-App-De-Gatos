@@ -34,4 +34,5 @@ img [alt]{
 a[href="https://pixabay.com/es/images/search/gato/"]{
   color: rgb(51, 233, 54);
   text-decoration: none;
+  font-weight: bold;
 }
