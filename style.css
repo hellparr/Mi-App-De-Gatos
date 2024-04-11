@@ -46,7 +46,7 @@ img {
   border-radius: 50%;
   border-width: 3px;
   border-style: solid;
-  border-color: #eb4034;
+  border-color: rgb(41, 145, 88);
 }
 
 a {
@@ -60,4 +60,7 @@ div {
 h2 {
   color: #eba234
 }
+
+
+
 
